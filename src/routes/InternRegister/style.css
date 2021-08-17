@@ -1,0 +1,15 @@
+.intern-register {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.intern-register-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.intern-register-form-element {
+    margin: 16px;
+}
